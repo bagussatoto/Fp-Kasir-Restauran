@@ -1,6 +1,6 @@
-### Aplikasi Kasir Restoran
+## Aplikasi Kasir Restoran
 
-## Merupakan program final project dari matakuliah Algortima dan Pemrograman 
+# Merupakan program final project dari matakuliah Algortima dan Pemrograman 
 
 # terdiri dari 5 orang kelompok : 
 - Nama : Bagus Budi Satoto (21.11.4076)
@@ -11,6 +11,6 @@
 
 ### Link Dokumen Hasil Final Project
 
-# google drive [Bagus Budi Satoto] (https://drive.google.com/drive/folders/19uxKnp9-KSr8V2kXpkG4w6ATP7noiBXM?usp=sharing)
+google drive [Bagus Budi Satoto](https://drive.google.com/drive/folders/19uxKnp9-KSr8V2kXpkG4w6ATP7noiBXM?usp=sharing)
 
 
