@@ -5,6 +5,9 @@
 - Falkultas Ilmu Komputer 
 - Kampus Universitas Amikom Yogyakarta
 
+
+
+
 ## Kelompok 11 terdiri dari 5 mahasiswa : 
 
 | **Nama**                            | **NIM**     | 
@@ -14,6 +17,10 @@
 |  Tegar Tri Putrawana                |  21.11.4111 |
 |  Shera Alice Ayutri                 |  21.11.4086 |
 |  Muhammad Rangga Pangestu           |  21.11.4052 |
+
+> ## Video Penjelasan Setiap Program
+
+Uploading Kelompok 11_Kasir Restauran.mp4…
 
 
 ## Link Dokumen Hasil Final Project
