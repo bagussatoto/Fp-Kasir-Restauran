@@ -20,12 +20,15 @@
 
 > ## Video Penjelasan Setiap Program
 
-Uploading Kelompok 11_Kasir Restauran.mp4…
+
+
+https://user-images.githubusercontent.com/87259393/180431279-ae4b1506-a476-42c5-8ae6-569a370ec91e.mp4
+
 
 
 ## Link Dokumen Hasil Final Project
 
-[Bagus Budi Satoto](https://drive.google.com/drive/folders/19uxKnp9-KSr8V2kXpkG4w6ATP7noiBXM?usp=sharing)
+[Folder Final Project](https://drive.google.com/drive/folders/19uxKnp9-KSr8V2kXpkG4w6ATP7noiBXM?usp=sharing)
 
 ## Kritik Dan Saran 
 Anda bisa kirim Email :
